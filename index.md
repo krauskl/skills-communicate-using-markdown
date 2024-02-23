@@ -4,7 +4,11 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-
+```
+library("mtcars")
+mean(mpg)
+plot(mpg, wt)
+```
 
 
 
