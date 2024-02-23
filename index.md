@@ -1,6 +1,8 @@
 # Main Header
 ## Subheading
-### Subsubheading
+### Subsubheading - check out this photo 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
